@@ -10,4 +10,4 @@
 Vitoria001/Vitoria001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[love](https://tenor.com/b05M5.gif)
+![](https://tenor.com/b05M5.gif)
