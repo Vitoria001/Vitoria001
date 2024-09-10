@@ -5,9 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![](https://data.textstudio.com/output/sample/animated/1/2/4/6/victory-1-16421.gif)
 
 <!---
 Vitoria001/Vitoria001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-![](https://tenor.com/bkLnk.gif)
-
